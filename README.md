@@ -1,6 +1,5 @@
-1. Install opencv and ultralytics
+1. RUN the script knee_rom_launcher.sh
 
-2. Run with Python
 
 
 Check demo_video.mkv for how to use the app
